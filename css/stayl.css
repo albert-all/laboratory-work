@@ -415,4 +415,90 @@ margin-left: 20px;
 		width: 100%;
 		padding: 0 15px;
 	}
+	.PortfolioIMG {
+  	margin-left: 0px;
+}
+.PortfolioIMGUL {
+    margin-right: 0px;
+    margin-top: 90px;
+		width: 100%;
+}
+.Portfolio {
+    margin-left: 80px;
+}
+.Opitim {
+    margin-top: 137px;
+    margin-left: 70px;
+    width: 60%;
+}
+.Myim {
+    margin-left: 60px;
+    margin-top: 85px;
+    width: 70%;
+}
+.centerfooter{
+	display: block;
+}
+.number
+{
+	display: none;
+}
+.menufooterr, ul, li {
+    padding-left: 40px;
+		margin: 0;
+}
+.menu li {
+  margin-right: 10px;
+}
+.menuСontacts{
+	padding-left: 0px;
+}
+.aboutMe,.Desc-left-hed2{
+	margin: 0px;
+	padding: 0px;
+}
+.aboutMe{
+	display: flex;
+	display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+.menuСontacts li{
+	margin: 0;
+	padding: 0;
+}
+.menuСontactsinf, li{
+	margin: 0;
+	padding: 0;
+}
+.Desc-left-hed2{
+	padding: 0px;
+	margin: 0px;
+}
+.myNameD {
+    margin: 0px;
+    padding: 0px;
+}
+.myName{
+	padding: 0;
+}
+.p1, .p2{
+	width: 90%;
+}
+.PMy{
+	padding-left: 10px;
+}
+.menufooter{
+	margin-left: 10px;
+}
+.menufooter li{
+	margin-left: 0px;
+	margin-right: 36px
+}
+.Hello {
+    margin-left: 10px;
+}
+.Hello2, .let {
+    margin-left: 10px;
+}
 }
